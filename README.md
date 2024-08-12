@@ -2,7 +2,6 @@
   <br>
   <img alt="Logo" src="media/logo.png">
   <br><br>
-  <a href="https://lgtm.com/projects/g/Gamma-Microsystems/NeoEdex/context:javascript"><img alt="undefined" src="https://img.shields.io/lgtm/grade/javascript/g/Gamma-Microsystems/edex-ui.svg?logo=lgtm&logoWidth=18"/></a>
   <br>
   <a href="https://github.com/Gamma-Microsystems/NeoEdex/releases/latest"><img alt="undefined" src="https://img.shields.io/github/release/Gamma-Microsystems/edex-ui.svg?style=popout"></a>
   <a href="#featured-in"><img alt="undefined" src="https://img.shields.io/github/downloads/Gamma-Microsystems/NeoEdex/total.svg?style=popout"></a>
